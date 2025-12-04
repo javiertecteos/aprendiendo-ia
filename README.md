@@ -10,3 +10,4 @@ Objetivo: 365 días seguidos de commits
 | 2   | 2025-12-02 | Instalé Git                   | ✅     |
 | 3   | 2025-12-02 | Primer commit y repositorio   | ✅     |
 | 4   | 2025-12-02 | Estructura profesional + .gitignore | ✅ |
+| 5   | 2025-12-03 | Primer script Python + VS Code configurado | ✅ |
